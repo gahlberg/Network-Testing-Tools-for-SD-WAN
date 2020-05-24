@@ -23,7 +23,9 @@
             » iperf3 -s -p 6001 -i 1
       - ##### From the the Branch Ubuntu instance SSH session issue:
             » iperf3 -c <ip address of Hub> -p 6001 -u -i 1 -t 600 -b 1M -l 1360 -P 4
-      - ##### This should initiate 4 streams from the Branch to Hub, and from here you can run SLA load balance and failover testing...            >> More information can be found here on iperf3 command syntax: [https://iperf.fr/iperf-doc.php](https://iperf.fr/iperf-doc.php).
+      - ##### This should initiate 4 streams from the Branch to Hub, and from here you can run SLA load balance and failover testing.
+    
+    - More information can be found here on iperf3 command syntax: [https://iperf.fr/iperf-doc.php](https://iperf.fr/iperf-doc.php).
          
    ### 3. Firewall Inspection Tester Install Steps, Go here:
    * [Firewall Internet Tester](https://github.com/gahlberg/fit.git) - FIT Author: Alex Harvey
