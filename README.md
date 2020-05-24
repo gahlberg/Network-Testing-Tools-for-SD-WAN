@@ -27,5 +27,5 @@
     
        - More information can be found here on iperf3 command syntax: [https://iperf.fr/iperf-doc.php](https://iperf.fr/iperf-doc.php).
          
-   ### 3. Firewall Inspection Tester Install and Initialization Steps, Go here:
+   ### 3. Firewall Inspection Tester (fit) Install and Initialization Steps, Go here:
    * [Firewall Internet Tester](https://github.com/gahlberg/fit.git) - FIT Author: Alex Harvey
