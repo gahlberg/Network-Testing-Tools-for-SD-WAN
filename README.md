@@ -13,7 +13,7 @@
    - ##### Click the green phone icon to call and establish a session.  
    - ##### Go to branch2 console and accept the call if the auto answer feature is not enabled.
    
-   - ##### To download for Ekiga for Windows, go here: https://www.ekiga.org/download-ekiga-binaries-or-source-code.
+   - ##### To download Ekiga for Windows, go here: https://www.ekiga.org/download-ekiga-binaries-or-source-code.
 
    ### 2. iperf3 Quick Install Steps:
         sudo apt update
