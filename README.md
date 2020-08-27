@@ -12,6 +12,8 @@
    - ##### Launch the Ekiga Softphone on both and enter the IP of branch2 on branch1. 
    - ##### Click the green phone icon to call and establish a session.  
    - ##### Go to branch2 console and accept the call if the auto answer feature is not enabled.
+   
+   - ##### To download for Ekiga for Windows, go here: https://www.ekiga.org/download-ekiga-binaries-or-source-code.
 
    ### 2. iperf3 Quick Install Steps:
         sudo apt update
@@ -26,6 +28,9 @@
       - ##### This should initiate 4 streams from the Branch to Hub, and from here you can run SLA load balance and failover testing.
     
        - More information can be found here on iperf3 command syntax: [https://iperf.fr/iperf-doc.php](https://iperf.fr/iperf-doc.php).
+       
+   - #### iperf3 can also run on Windows, to download go here: https://iperf.fr/en/iperf-download.php#windows
          
    ### 3. Firewall Inspection Tester (fit) Install and Initialization Steps, Go here:
    * [Firewall Internet Tester](https://github.com/gahlberg/fit.git) - FIT Author: Alex Harvey
+   * Can be run in a Python on Windows as well, you just need a Python3 environment and Python3-pip (pip3), just follow instructions above for FIT. 
