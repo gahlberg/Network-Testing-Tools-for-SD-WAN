@@ -34,3 +34,6 @@
    ### 3. Firewall Inspection Tester (fit) Install and Initialization Steps, Go here:
    * [Firewall Internet Tester](https://github.com/gahlberg/fit.git) - FIT Author: Alex Harvey
    * Can be run in a Python on Windows as well, you just need a Python3 environment and Python3-pip (pip3), just follow instructions above for FIT. 
+   
+   ### 4. For Configuring RDP access using XRDP with LXDE on Ubuntu Server 18.04, Go here:
+   * https://www.fancyaddress.com/blog/linux/xrdp-with-lxde-on-ubuntu-server-18-04/
